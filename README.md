@@ -3,7 +3,7 @@ Sistema visual dinámico en p5.js
 ## Información del proyecto
 
 - **Nombre del proyecto**: Pixel Variable
-- **Autor/a**: [Sai Jordán]
+- **Autor**: Sai Jordán
 
 ## Descripción objetiva
 
