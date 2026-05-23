@@ -36,7 +36,7 @@ La interacción entre el color, la forma y la posición en el espacio (retícula
 
 ## Diagrama de flujo
 
-![Diagrama de flujo](diagrama.png)
+![Diagrama de flujo](diagrama.jpg)
 
 ## Link al sketch en p5.js
 
